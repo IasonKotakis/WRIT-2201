@@ -4,5 +4,5 @@ This course develops fundamental research and technical writing capabilities nee
 
 During this course I learnt about technical writing capabilities that I had accquire only over through brief overview. This course helped me out to master on how to write technical reports and guides. One of the guides I create was on iFixit on how to replace a Display on an Apple Cinema Display. This guide has managed to help over 300 people to help and repair their Apple Cinema Display.
 
-You can find this useful guide on iFixit: 
+You can find this useful guide on iFixit: <br> 
 https://www.ifixit.com/Guide/Apple+LED+Cinema+Display+27-Inch+LED+Panel+Replacement/140309#s279703
