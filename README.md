@@ -7,4 +7,4 @@ During this course I learnt about technical writing capabilities that I had acqu
 You can find this useful guide on iFixit: <br> 
 https://www.ifixit.com/Guide/Apple+LED+Cinema+Display+27-Inch+LED+Panel+Replacement/140309#s279703
 
-![iFixIt](WRIT-2201/Fast Fix Project/Photos/GitHub.PNG?raw=true "iFixit tutorial")
+![iFixIt](https://github.com/IasonKotakis/WRIT-2201/blob/fd7d8b42a0b1c5273713f8e8b4e12391077bde56/Fast%20Fix%20Project/Photos/GitHub.PNG)
